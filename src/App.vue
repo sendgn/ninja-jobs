@@ -59,4 +59,9 @@ button {
   border-radius: 4px;
   cursor: pointer;
 }
+.loading {
+  color: crimson;
+  font-size: 3em;
+  font-weight: bold;
+}
 </style>
